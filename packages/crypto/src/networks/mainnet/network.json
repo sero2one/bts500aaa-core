@@ -1,18 +1,18 @@
 {
-    "name": "mainnet",
-    "messagePrefix": "ARK message:\n",
-    "bip32": {
-        "public": 46090600,
-        "private": 46089520
-    },
-    "pubKeyHash": 23,
-    "nethash": "6e84d08bd299ed97c212c886c98a57e36545c8f5d645ca7eeae63a8bd62d8988",
-    "wif": 170,
-    "slip44": 111,
-    "aip20": 0,
-    "client": {
-        "token": "ARK",
-        "symbol": "Ѧ",
-        "explorer": "https://explorer.ark.io"
-    }
+  "name": "mainnet",
+  "messagePrefix": "QTST message:\n",
+  "bip32": {
+    "public": 46090600,
+    "private": 46089520
+  },
+  "pubKeyHash": 50,
+  "nethash": "4304d8766050308c491b960c07300a6bf9217f99ce14888b0f794ebcf24bd116",
+  "wif": 204,
+  "slip44": 111,
+  "aip20": 0,
+  "client": {
+    "token": "QTST",
+    "symbol": "Ѧ",
+    "explorer": "http://10.0.23.147:4200"
+  }
 }
